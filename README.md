@@ -1,7 +1,7 @@
 ## Parking Management
 
 ### Clone Project
-```update link```
+```https://github.com/ASNProject/parking-management.git```
 
 ### Run Project
 
